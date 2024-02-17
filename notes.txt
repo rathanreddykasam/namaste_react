@@ -1,0 +1,4 @@
+React has two types of components 
+-> class based components
+-> functional components (latest);
+
